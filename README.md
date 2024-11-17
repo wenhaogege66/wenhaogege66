@@ -30,7 +30,7 @@
 <p align="center">
 <a href="https://github.com/wenhaogege66"><img src="https://img.shields.io/badge/GitHub-wenhaogege66-blue?logo=github" /></a>
 <!-- <a href="https://space.bilibili.com/233945313"><img src="https://img.shields.io/badge/哔哩哔哩-AN安即-pink?logo=bilibili" /></a> -->
-<a href="https://wakatime.com/@wenhaogege66"><img src="https://wakatime.com/badge/user/2c35c5e6-381f-41e0-905c-374f5d7a80da.svg" /></a>
+<a href="https://wakatime.com/@wenhaogege66"><img src="https://wakatime.com/badge/user/64f9e41a-3ee2-4d1c-854f-477e841fd69e.svg" /></a>
 <img src="https://komarev.com/ghpvc/?username=wenhaogege66" />
 </p>
 
