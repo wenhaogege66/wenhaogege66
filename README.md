@@ -13,6 +13,7 @@
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=wenhaogege66&theme=transparent&show_icons=true&hide_border=true&show=reviews&number_format=long" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wenhaogege66" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=wenhaogege66)](https://git.io/streak-stats)
 <img align="center" width="400" src="https://streak-stats.demolab.com/?user=wenhaogege66&theme=transparent&hide_border=true" />
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
