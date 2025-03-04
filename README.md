@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+WenHao's+GitHub!;I+am+extremely+fond+of+money.!" />
 </p>
 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=wenhaogege66&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs&number_format=long" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=wenhaogege66&theme=transparent&show_icons=true&hide_border=true&show=reviews&number_format=long" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=wenhaogege66&theme=transparent&hide_border=true" />
+<img align="center" width="400" src="https://streak-stats.demolab.com/?user=wenhaogege66&theme=transparent&hide_border=true" />
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=wenhaogege66&theme=github-compact&hide_border=true&area=true&custom_title=Public-Contribution%20Graph" />
