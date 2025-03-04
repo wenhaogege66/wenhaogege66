@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+WenHao's+GitHub!;I+am+extremely+fond+of+money.!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+WenHao's+GitHub!;I+am+extremely+fond+of+money!" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=wenhaogege66&theme=transparent&show_icons=true&hide_border=true&show=reviews&number_format=long" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wenhaogege66&theme=transparent&hide_border=true" alt="GitHub Streak" /></a> -->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=wenhaogege66&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=wenhaogege66&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=wenhaogege66&theme=github-compact&hide_border=true&area=true&custom_title=Public-Contribution%20Graph" />
@@ -24,7 +24,7 @@
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenhaogege66&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" /> -->
 <br/>
 <!-- https://github.com/LelouchFR/skill-icons -->
-<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,react,vue,html,css,js,ts,md,latex">
+<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,py,c,pytorch,jupyter,kaggle,mysql,postgresql,nodejs,postman,figma,react,vue,nextjs,elementplus,materialui,js,html,css,ts,git,solana,solidity,ganache,leetcode,docker,deepseek,vmwareworkstation,latex,steam">
 </p>
 
 <!-- https://github.com/badges/shields -->
