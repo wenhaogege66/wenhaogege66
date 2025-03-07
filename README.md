@@ -13,7 +13,7 @@
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=wenhaogege66&theme=transparent&show_icons=true&hide_border=true&show=reviews&number_format=long" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wenhaogege66&theme=transparent&hide_border=true" alt="GitHub Streak" /></a> -->
-<a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=wenhaogege66&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img align="center" width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=wenhaogege66&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=wenhaogege66&theme=github-compact&hide_border=true&area=true&custom_title=Public-Contribution%20Graph" />
